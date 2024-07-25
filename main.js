@@ -2,7 +2,7 @@ song = "";
 
 function preload()
 {
-	song = loadSound("memory_reboot_v_j.mp3");
+	song = loadSound("music.mp3");
 }
 
 scoreRightWrist = 0;
